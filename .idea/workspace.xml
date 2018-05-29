@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ca0d2f-4539-4fba-bdce-c12b9c69b5b6" name="Default" comment="first commit.">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AIProjectReport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AStarSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testingClass.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AStarSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AStarSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GreedySearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GreedySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>heuri</find>
+      <find>compare</find>
+      <find>GreedyPairComparator</find>
+      <find>System.out.println();</find>
+      <find>Testing South:</find>
+      <find>System.out.println</find>
+      <find>Running from</find>
+      <find>searchHolder</find>
+      <find>GreedyMazeStartSecond</find>
+      <find>search</find>
+      <find>searchMethod</find>
+      <find>grid</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Pair.java" />
+        <option value="$PROJECT_DIR$/src/State.java" />
+        <option value="$PROJECT_DIR$/src/AStar.java" />
+        <option value="$PROJECT_DIR$/src/Greedy.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/DepthSearch.java" />
+        <option value="$PROJECT_DIR$/src/Breadth_First_Search.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/Greedy_Search.java" />
+        <option value="$PROJECT_DIR$/src/A_Star_Search.java" />
+        <option value="$PROJECT_DIR$/src/aStarSearch.java" />
+        <option value="$PROJECT_DIR$/src/AStarSearch.java" />
+        <option value="$PROJECT_DIR$/src/greedySearch.java" />
+        <option value="$PROJECT_DIR$/src/testingClass.java" />
+        <option value="$PROJECT_DIR$/src/SearchTest.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="691" />
+    <option name="y" value="23" />
+    <option name="width" value="840" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AIProjectReport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AIProjectReport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AIProjectReport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AIProjectReport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="testingClass" />
+      <module name="AIProjectReport" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ca0d2f-4539-4fba-bdce-c12b9c69b5b6" name="Default" comment="" />
+      <created>1526826056828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526826056828</updated>
+      <workItem from="1526826060612" duration="1714000" />
+      <workItem from="1526982699134" duration="294000" />
+      <workItem from="1526992288723" duration="598000" />
+      <workItem from="1527142420445" duration="10238000" />
+      <workItem from="1527210061082" duration="407000" />
+      <workItem from="1527211705860" duration="520000" />
+      <workItem from="1527241137878" duration="14110000" />
+      <workItem from="1527332555648" duration="918000" />
+      <workItem from="1527514290725" duration="596000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit.">
+      <created>1527332809921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527332809921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29395000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="691" y="23" width="840" height="973" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9646119" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28947368" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954337" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32990867" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32990867" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SearchTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/Pair.java" />
+    <entry file="file://$PROJECT_DIR$/src/Greedy.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17187">
+          <caret line="1011" selection-start-line="1011" selection-end-line="1011" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/Pair.java" />
+    <entry file="file://$PROJECT_DIR$/src/Greedy.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16490">
+          <caret line="1011" selection-start-line="1011" selection-end-line="1011" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/Pair.java" />
+    <entry file="file://$PROJECT_DIR$/src/Greedy.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17187">
+          <caret line="1011" selection-start-line="1011" selection-end-line="1011" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Greedy.java" />
+    <entry file="file://$PROJECT_DIR$/src/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Greedy.java" />
+    <entry file="file://$PROJECT_DIR$/src/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Greedy.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="427" column="13" selection-start-line="427" selection-start-column="13" selection-end-line="427" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/javax/swing/plaf/nimbus/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pair.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="319" column="19" selection-start-line="319" selection-start-column="19" selection-end-line="319" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/Greedy.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1011" selection-start-line="1011" selection-end-line="1011" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Breadth_First_Search.java" />
+    <entry file="file://$PROJECT_DIR$/src/DepthSearch.java" />
+    <entry file="file://$PROJECT_DIR$/src/SearchTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testingClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="63" column="21" selection-end-line="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AStarSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GreedySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
